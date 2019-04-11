@@ -1,5 +1,5 @@
 # Basis for TelegramRPG with whole logic stored in JSon file.
-For now all inputs reads from console ising Scanner, in furure this will be changed to TelegramBotsAPI input
+For now all inputs reads from console using Scanner, in furure this will be changed to TelegramBotsAPI input
 Examples of code
 
 -- JsonToken opens parseme.json and provides JSONObject for anothe classes
